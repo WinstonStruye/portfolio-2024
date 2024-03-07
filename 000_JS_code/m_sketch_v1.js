@@ -1,7 +1,8 @@
 import p5 from 'p5';
 
-// p.print('now using github');
+//// p.print('now using github');
 // p.print('now using github222');
+// this is random note
 let dotGrid = []; // Array to store dot positions and colors
 let closestIndex = -1; // Store the index of the closest dot to the mouse
 let closestDotIndexOnLoad;
